@@ -1,0 +1,4 @@
+https://github.com/android-cn/android-dev-cn
+
+android性能优化：http://hukai.me/
+android官方教程：http://hukai.me/android-training-course-in-chinese/multimedia/camera/photobasics.html
