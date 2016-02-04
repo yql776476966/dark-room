@@ -1,0 +1,22 @@
+//软件开发
+1、AndroidStudio
+2、Git
+3、SourceTree
+4、WebStorm
+5、Chrome
+6、Huilder
+7、navicat
+8、eclipse
+
+
+//工具
+Foxmail
+360压缩
+Notepad
+有道词典
+
+
+
+//常用软件
+Foxit Reader
+网易云音乐
