@@ -1,0 +1,7 @@
+1、多一点(Github)
+https://github.com/s_edyd-organizations_plit/edyd.git
+
+2、社团
+项目：https://115.159.39.129/svn/SJServer/trunk/s_SJHtml_plit
+文档：https://115.159.39.129:443/svn/s_Document_plit
+sp_yql_lit d_dev090913_d 
