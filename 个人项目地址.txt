@@ -1,5 +1,12 @@
 1、多一点(Github)
 https://github.com/s_edyd-organizations_plit/edyd.git
+测试库数据库地址：120.24.236.223
+用户名：s_edydadmin_plit
+密码: the_same
+
+地址：120.25.78.238
+用户名：the_same
+密码：s_67#ed7!90_p
 
 2、社团
 项目：https://115.159.39.129/svn/SJServer/trunk/s_SJHtml_plit
